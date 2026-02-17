@@ -11,6 +11,10 @@ This project focuses on designing a compact, fully analog electronic control boa
 
 The goal is to build a robust, autonomous, and reliable system capable of operating in harsh agricultural environments while maintaining water hygiene and preventing freezing.
 
+<p align="center">
+  <img src="schem-state-1.png" width="600">
+</p>
+
 ---
 
 # ⚙️ System Operation
@@ -49,6 +53,10 @@ After 10 filling cycles, the system initiates a cleaning sequence:
 🎯 Purpose:
 To significantly reduce bacterial growth and maintain clean drinking water for livestock.
 
+<p align="center">
+  <img src="elc-vn.png" width="600">
+</p>
+
 ---
 
 # ❄️ Anti-Freeze Protection System
@@ -75,6 +83,10 @@ The system includes industrial multi-color LEDs for long-distance status monitor
 - 🔴 **Red** → Cleaning cycle in progress  
 
 This allows visual system monitoring from a distance without needing to physically access the trough.
+
+<p align="center">
+  <img src="led.png" width="600">
+</p>
 
 ---
 
